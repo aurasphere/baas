@@ -1,5 +1,3 @@
-# Bug as a Service
-
 Bug as a Service (BAAS) is a new, innovative service that allows your organization to save time and money on the development process by reducing the debugging effort. 
 
 Many recent studies highlighted how developers spend most of their time on bug fixing. In turn, this translates into missed deadlines, unimplemented features, and a lesser employee engagement ROI. BAAS focuses on solving these problems once and for all.
