@@ -47,4 +47,8 @@ Please contact our sales department to get your private API key with access to y
  
 \- Armando Rossi, Tech Lead at WeSell.com
 
+> Our payment system was so broken, it wouldn't even let us purchase BaaS! If only we bought a subscription earlier...
+
+\- Danilo P., former startup founder, currently in hiding from debt collectors
+
 #### Do you have a story to share? Get in touch with us!
