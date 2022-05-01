@@ -1,6 +1,6 @@
-Bug as a Service (BAAS) is a new, innovative service that allows your organization to save time and money on the development process by reducing the debugging effort. 
+Bug as a Service (BaaS) is a new, innovative service that allows your organization to save time and money on the development process by reducing the debugging effort. 
 
-Many recent studies highlighted how developers spend most of their time on bug fixing. In turn, this translates into missed deadlines, unimplemented features, and a lesser employee engagement ROI. BAAS focuses on solving these problems once and for all.
+Many recent studies highlighted how developers spend most of their time on bug fixing. In turn, this translates into missed deadlines, unimplemented features, and a lesser employee engagement ROI. BaaS focuses on solving these problems once and for all.
 
 ## How it works
 
@@ -8,7 +8,7 @@ The concept is simple.
 
 Traditionally, developers would hard-code bugs in your codebase and then use legacy tools like continuous integration, unit tests and SonarQube to find them. Then, they need extra time to fix them and refactor the code.
 
-With BAAS, developers instead rely on our external REST API to fetch bugs on-demand. You always have complete control of your codebase through our dashboard, where you can manage all the bugs and disable them by simply clicking on a button.
+With BaaS, developers instead rely on our external REST API to fetch bugs on-demand. You always have complete control of your codebase through our dashboard, where you can manage all the bugs and disable them by simply clicking on a button.
 
 ## API Documentation
 
