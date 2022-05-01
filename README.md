@@ -11,12 +11,16 @@ Traditionally, developers would hard-code bugs in your codebase and then use leg
 With BAAS, developers instead rely on our external REST API to fetch bugs on-demand. You always have complete control of your codebase through our dashboard, where you can manage all the bugs and disable them by simply clicking on a button.
 
 ## API Documentation
+
 ### Public API
 Base URL: https://bug-as-a-service.herokuapp.com/api/v1
+
 #### Get a list of supported programming languages
     GET /exceptions
+    
 #### Get a list of supported exceptions for a specific language
     GET /exceptions/<language>
+    
 #### Get a specific bug for a given language
     GET /exceptions/<language>/<exception_name>
 
