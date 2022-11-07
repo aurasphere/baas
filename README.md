@@ -15,7 +15,7 @@ With BaaS, developers instead rely on our external REST API to fetch bugs on-dem
 ## API Documentation
 
 ### Public API
-Base URL: https://bug-as-a-service.herokuapp.com/api/v1
+Base URL: https://bug-as-a-service.fly.dev/api/v1/
 
 #### Get a list of supported programming languages
     GET /exceptions
